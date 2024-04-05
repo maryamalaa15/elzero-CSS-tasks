@@ -1,0 +1,26 @@
+.First{
+  background-color: rgb(138, 43, 226);
+  background-color: hsl(271, 76%, 53%);
+  background-color: #8a2be2;
+}
+.Second{
+  background-color: rgb(138 43 226 / 50%);
+ 
+}
+.Third{
+  background-color: rgb(138 43 226 / 5%);
+}
+div{
+  width: 500px;
+  padding: 20px;
+  margin: 2%;
+}
+p{
+  color: #ffffff;
+  font-weight: 600;
+  font-size: medium;
+}
+body{
+  display: grid;
+  justify-content: center;
+}
