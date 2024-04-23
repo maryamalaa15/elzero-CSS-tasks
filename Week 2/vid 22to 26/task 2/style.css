@@ -1,0 +1,22 @@
+.first{
+  font-size: 100px;
+  font-weight: 300;
+  font-style: italic;
+  font-family: "Open Sans", sans-serif;
+  text-transform: capitalize;
+}
+.second{
+  font-size: 100px;
+  font-weight: 700;
+  text-transform: capitalize;
+  font-family: "Cairo", sans-serif;
+}
+.third{
+  font-size: 80px;
+  font-weight: 400;
+  text-transform: capitalize;
+  font-family: "Jomhuria", serif;
+}
+body{
+  text-align: center;
+}

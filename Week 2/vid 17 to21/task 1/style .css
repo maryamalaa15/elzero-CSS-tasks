@@ -1,0 +1,7 @@
+p{
+  text-shadow: 3px 2px 0px orange,
+   5px 5px 0px blue,
+  8px 8px 0px violet;
+  font-size: 100px;
+  text-align: center;
+}
