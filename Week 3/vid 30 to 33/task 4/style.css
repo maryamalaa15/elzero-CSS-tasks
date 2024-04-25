@@ -1,0 +1,49 @@
+h3{
+  text-align: center;
+    font-size: 50px;
+}
+table{
+  width: 700px;
+    position: relative;
+    left: 24%;
+    border: 1px solid;
+}
+table td{
+  background-color: #eee;
+  padding: 15px;
+}
+table thead td{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 18px;
+  font-size: 21px;
+}
+table tbody td{
+  text-align: center;
+  padding: 20px;
+  font-size: 20px;
+}
+.general{
+  text-decoration: none;
+  color: aliceblue;
+  padding: 6%;
+  font-size: 17px;
+  position: relative;
+  font-weight: bold
+}
+.view{
+  background: deepskyblue;
+  left: -31px;
+  bottom: -10px;
+}
+.delete{
+  background-color: red;
+  left: 24%;
+  bottom: 13px;
+}
+.pic{
+  width: 100px;
+  height: 100px;
+}

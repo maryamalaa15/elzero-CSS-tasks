@@ -1,0 +1,51 @@
+.fr{
+  width: 400px;
+  position: relative;
+  left: 23%
+}
+.html{
+  margin-bottom: 16px;
+  background-color: #eee;
+  width: 150%;
+  padding: 5%;
+  list-style: none;
+  font-size: 24px;
+  height: 192px;
+  padding-left: 10%;
+}
+.html-types{
+  padding: 3%;
+}
+.general{
+  background-color: white;
+  margin-top: 2%;
+  width: 100%;
+  padding: 1%;
+}
+.css{
+  margin-bottom: 16px;
+  background-color: #eee;
+  width: 150%;
+  padding: 5%;
+  list-style: none;
+  font-size: 24px;
+  height: 192px;
+  padding-left: 10%;
+}
+
+.types{
+  padding: 3%;
+}
+.java{
+  margin-bottom: 16px;
+  background-color: #eee;
+  width: 150%;
+  padding: 5%;
+  list-style: none;
+  font-size: 24px;
+  height: 111px;
+  padding-left: 10%;
+}
+.js-types{
+  background-color: white;
+}
